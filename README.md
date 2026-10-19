@@ -4,7 +4,7 @@ Análise exploratória de dados que investiga quais hábitos dos estudantes (est
 
 **Ferramentas:** Python · pandas · matplotlib · seaborn · Jupyter
 
-> **Origem dos dados e crédito:** projeto prático desenvolvido a partir do vídeo "[TÍTULO DO VÍDEO]" ([LINK DO VÍDEO]), do canal **Eficiência Programada**. O arquivo `student_habits_performance.csv` (1.000 estudantes, 16 colunas) corresponde ao dataset *Student Habits vs Academic Performance*, do Kaggle ([LINK DO DATASET E LICENÇA]). Os dados são **sintéticos**, isto é, gerados artificialmente, portanto os resultados servem como exercício e não descrevem estudantes reais.
+> **Origem dos dados e crédito:** projeto prático desenvolvido a partir do vídeo "Projeto Completo de Análise de Dados com Python e Estatística na Prática", do canal **Eficiência Programada**. O arquivo `student_habits_performance.csv` (1.000 estudantes, 16 colunas) corresponde ao dataset *Student Habits vs Academic Performance*, do Kaggle. Os dados são **sintéticos**, isto é, gerados artificialmente, portanto os resultados servem como exercício e não descrevem estudantes reais.
 
 ---
 
